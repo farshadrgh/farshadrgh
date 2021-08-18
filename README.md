@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/farshad rahimi ghashghaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farshad rahimi ghashghaei" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/farshad-rahimi-ghashghaei-b619551b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farshad rahimi ghashghaei" height="30" width="40" /></a>
 <a href="https://instagram.com/farshad_r_gh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farshad_r_gh" height="30" width="40" /></a>
 </p>
 
